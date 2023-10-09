@@ -1,0 +1,16 @@
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.thumbnail {
+    margin-right: 20px;
+}
+/* .table th{
+    min-width: 200px;
+} */
+
+.media-object{
+    width: 72px;
+    height: 72px;
+}
